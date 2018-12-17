@@ -2,4 +2,4 @@
 
 react simple todolist
 
-[Demo]("https://haneulee.github.io/react-simple-todo")
+[Demo](https://haneulee.github.io/react-simple-todo)
